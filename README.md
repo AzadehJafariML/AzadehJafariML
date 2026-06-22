@@ -42,7 +42,6 @@ I am now focused on **healthcare and biomedical AI**, and actively building towa
 
 **Tooling** · AFNI · FSL · ANTs · Connectome Workbench · DeepLabCut · 3D Slicer · MeVisLab · Git
 
-
 ## Publications
 
 Three first-author papers — **Cell Reports**, **Journal of Neuroscience**, and **Imaging Neuroscience** (under review) — among six peer-reviewed journal articles. H-index 5, 97 citations. Full list on [Google Scholar](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en).
