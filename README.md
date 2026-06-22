@@ -2,7 +2,7 @@
 
 ### Computational neuroscientist **and** engineer
 
-### I build deep-learning systems for medical and biological data, from the model math up to the hardware that produces it.
+### I build deep learning systems for medical and biological data, from the model math up to the hardware that produces it.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -16,9 +16,9 @@
 
 ---
 
-As an engineer, I **build**, not just analyze. Across a PhD in computational neuroscience and 2+ years in medical-device R&D, I have architected custom deep-learning models, written the Python/Matlab control code and built the hardware that acquires the data, and shipped reproducible, end-to-end pipelines for multimodal medical data. My training runs **electronics engineering** (BSc) → **biomedical engineering- information engineering** (MSc) → **computational neuroscience** (PhD), so I am equally at home with the model, the data pipeline, and the signal it came from.
+As an engineer, I **build**, not just analyze. Across a PhD in computational neuroscience and 2+ years in medical-device R&D, I have architected custom deep learning models, written Python/Matlab control codes and built the hardware that acquires the data, and shipped reproducible, end-to-end pipelines for multimodal medical data, especifically biomedical images. My training runs **electronics engineering** (BSc) → **biomedical engineering- medical information engineering** (MSc) → **computational neuroscience** (PhD), so I am equally at home with the model, the data pipeline, and the signal it came from.
 
-I am now focused on **healthcare and biomedical AI**, and actively building toward **generative and agentic AI**.
+I am now focused on **ML in healthcare and biomedical AI**, and actively building toward **generative and agentic AI**.
 
 ## What I bring
 
@@ -32,7 +32,7 @@ I am now focused on **healthcare and biomedical AI**, and actively building towa
 
 **Python ML & data stack** · NumPy · pandas · scikit-learn · PyTorch · Matplotlib
 
-**Deep learning & ML** · custom 3D-CNNs (end-to-end training) · transfer learning / fine-tuning (ResNet-50, DeepLabCut) · classical ML (SVM, K-means, fuzzy c-means) · optimization (graph-cut) · *currently deepening: transformers, LLMs, RAG, and agentic-AI frameworks*
+**Deep learning & ML** · custom 3D-CNNs (end-to-end training) · transfer learning / fine-tuning (ResNet-50, DeepLabCut) · classical ML (SVM, K-means, fuzzy c-means) · optimization (graph-cut) · *currently deepening: transformers, LLMs, and agentic-AI frameworks*
 
 **Computer vision & medical imaging** · image segmentation · landmark / pose tracking · machine-vision defect detection · structural, functional & quantitative MRI
 
