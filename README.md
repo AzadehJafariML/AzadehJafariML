@@ -1,6 +1,7 @@
 # Hi, I am Azadeh Jafari
 
-### Computational neuroscientist **and** engineer — I build deep-learning systems for medical and biological data, from the model math up to the hardware that produces it.
+### Computational neuroscientist **and** engineer
+### I build deep-learning systems for medical and biological data, from the model math up to the hardware that produces it.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
