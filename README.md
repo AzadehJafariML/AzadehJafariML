@@ -16,7 +16,7 @@
 
 ---
 
-As an engineer, I **build**, not just analyze. Across a PhD in computational neuroscience and 2+ years in medical-device R&D, I have architected custom deep-learning models, written the Python/Matlab control code and built the hardware that acquires the data, and shipped reproducible, end-to-end pipelines for multimodal medical data. My training runs **electronics engineering** (BSc) → **biomedical engineering- information engineering** (MSc, ranked 1st) → **computational neuroscience** (PhD), so I am equally at home with the model, the data pipeline, and the signal it came from.
+As an engineer, I **build**, not just analyze. Across a PhD in computational neuroscience and 2+ years in medical-device R&D, I have architected custom deep-learning models, written the Python/Matlab control code and built the hardware that acquires the data, and shipped reproducible, end-to-end pipelines for multimodal medical data. My training runs **electronics engineering** (BSc) → **biomedical engineering- information engineering** (MSc) → **computational neuroscience** (PhD), so I am equally at home with the model, the data pipeline, and the signal it came from.
 
 I am now focused on **healthcare and biomedical AI**, and actively building toward **generative and agentic AI**.
 
