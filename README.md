@@ -74,7 +74,7 @@ GLM regression · mixed-effects ANOVA · multiple-comparison correction · segme
 
 Three first-author papers — **Cell Reports**, **Journal of Neuroscience**, and **Imaging
 Neuroscience** (under review) — among six peer-reviewed journal articles. H-index 5, 97 citations.
-Full list on [Google Scholar](ADD-YOUR-GOOGLE-SCHOLAR-URL).
+Full list on [Google Scholar]([ADD-YOUR-GOOGLE-SCHOLAR-URL](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en)).
 
 ## Let's connect
 
