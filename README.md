@@ -1,7 +1,6 @@
 # Hi, I am Azadeh Jafari
 
-### Computational neuroscientist **and** engineer
-### I build deep-learning systems for medical and biological data, from the model math up to the hardware that produces it.
+### Computational neuroscientist **and** engineer — I build deep-learning systems for medical and biological data, from the model math up to the hardware that produces it.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -74,7 +73,7 @@ GLM regression · mixed-effects ANOVA · multiple-comparison correction · segme
 
 Three first-author papers — **Cell Reports**, **Journal of Neuroscience**, and **Imaging
 Neuroscience** (under review) — among six peer-reviewed journal articles. H-index 5, 97 citations.
-Full list on [Google Scholar]([ADD-YOUR-GOOGLE-SCHOLAR-URL](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en)).
+Full list on [Google Scholar](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en).
 
 ## Let's connect
 
@@ -82,5 +81,5 @@ Open to roles in **healthcare / biomedical AI** and **ML engineering**, based in
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jfr.azadeh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/azadeh-jafari-neuroscience)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)]([ADD-YOUR-GOOGLE-SCHOLAR-URL](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en))
-[![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat&logo=zenodo&logoColor=white)]([ADD-YOUR-ZENODO-URL](https://zenodo.org/records/7789270#.ZCb1aS8r1z8))
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en)
+[![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat&logo=zenodo&logoColor=white)](https://zenodo.org/records/7789270#.ZCb1aS8r1z8)
