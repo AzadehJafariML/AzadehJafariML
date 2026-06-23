@@ -45,7 +45,7 @@ I am now focused on **ML in healthcare and biomedical AI**, and actively buildin
 
 ## Publications
 
-Three first-author papers in **Cell Reports**, **Journal of Neuroscience**, and **Imaging Neuroscience** (under review), among six peer-reviewed journal articles, 98 citations. Full list on [Google Scholar](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en).
+Three first-author papers in **Cell Reports**, **Journal of Neuroscience**, and **Imaging Neuroscience** (under post-revision review), among six peer-reviewed journal articles, 98 citations. Full list on [Google Scholar](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en).
 
 ## Selected research highlights
 
