@@ -16,16 +16,16 @@
 
 ---
 
-As an engineer, I **build**, not just analyze. Across a PhD in computational neuroscience and 2+ years in medical-device R&D, I have architected custom deep learning models, written Python/Matlab control codes and built the hardware that acquires the data, and shipped reproducible, end-to-end pipelines for multimodal medical data, especifically biomedical images.
-My training runs **electronics engineering** (BSc) → **biomedical engineering- medical information engineering** (MSc) → **computational neuroscience** (PhD), so I am equally at home with the model, the data pipeline, and the signal it came from.
+As an engineer, I **build**, not just analyze. Across a Ph.D. in computational neuroscience and 2+ years in medical-device R&D, I have architected custom deep learning models, written Python/Matlab control codes and built the hardware that acquires the data, and shipped reproducible, end-to-end pipelines for multimodal medical data, especifically biomedical images.
+My training runs **electronics engineering** (B.Sc.) → **biomedical engineering- medical information engineering** (M.Sc.) → **computational neuroscience** (Ph.D.), so I am equally at home with the model, the data pipeline, and the signal it came from.
 
 I am now focused on **ML in healthcare and biomedical AI**, and actively building toward **generative and agentic AI**.
 
 ## What I bring
 
-- **Deep learning I implement, not just import**: custom 3D-CNN architectures trained end-to-end and ResNet-50 transfer learning, validated with leave-one-subject-out cross-validation and permutation testing.
+- **Deep learning I implement, not just import**: I have already designed custom 3D-CNN architectures, trained end-to-end and ResNet-50 transfer learning, validated with leave-one-subject-out cross-validation and permutation testing.
 - **Full-stack experimental engineering**: from Python/MATLAB control code and acquisition hardware (RF coils, control boards) through the analysis pipeline to the statistics.
-- **Reproducibility-first practice**: versioned code and data, peer-reviewed processing protocols, and benchmark validation against expert-annotated ground truth.
+- **Reproducibility-first practice**: versioned code and data, peer-reviewed processing protocols and pipelines, and benchmark validation against expert-annotated ground truth.
 
 ## Technical skills
 
