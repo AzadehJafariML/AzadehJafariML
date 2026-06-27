@@ -68,3 +68,4 @@ Open to roles in **healthcare/biomedical AI** and **ML engineering in healthcare
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azadeh-jafari-neuroscience)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en)
 [![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat&logo=zenodo&logoColor=white)](https://zenodo.org/records/7789270#.ZCb1aS8r1z8)
+[![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat&logo=zenodo&logoColor=white)](https://zenodo.org/records/7786440)
