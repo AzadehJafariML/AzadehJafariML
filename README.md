@@ -53,12 +53,6 @@ I am now focused on **ML in healthcare and biomedical AI**, and actively buildin
 
 Three first-author papers in **Cell Reports**, **Journal of Neuroscience**, and **Imaging Neuroscience** (under post-revision review), among six peer-reviewed journal articles, 98 citations. Full list on [Google Scholar](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en).
 
-## Selected research highlights
-
-- Built the **first decoding analysis of nonhuman primate fMRI**, training a custom 3D-CNN to ~65% mean classification accuracy versus a 25% chance baseline, validated with leave-one-subject-out cross-validation and permutation-based significance testing.
-- Fine-tuned a **ResNet-50 (DeepLabCut)** for facial landmark and lip movement tracking across 90 in-scanner video recordings, reaching >85.7% agreement with manual annotation, then engineered the trajectories into time-locked behavioral regressors.
-- Developed an **interactive graph-cut segmentation** method matching radiologist ground truth (Dice 89.12%, Hausdorff 1.01 mm) where atlas-based methods could not reach to this accuracy.
-- In medical-device R&D, used **waveform/signal feature analysis** to diagnose instability and cut shockwave pulse-energy variability from ±12–15% down to ±5–7%.
 
 ## Let's connect
 
