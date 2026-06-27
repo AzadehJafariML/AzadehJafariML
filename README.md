@@ -23,15 +23,15 @@ I am now focused on **ML in healthcare and biomedical AI**, and actively buildin
 
 ## What I bring
 
-- **Hands-on deep learning:** I have designed custom 3D-CNN architectures and applied ResNet-50 transfer learning for neural decoding of awake-primate fMRI, and fine-tuned a pre-trained DeepLabCut model for markerless tracking — defining and comparing facial-landmark configurations and selecting the most robust for downstream analysis. I validate carefully, using leave-one-subject-out cross-validation and permutation testing.
+- **Hands-on deep learning:** I have designed custom 3D-CNN architectures and applied ResNet-50 transfer learning for neural decoding of awake primate fMRI, and fine-tuned a pre-trained DeepLabCut model for markerless tracking (defining and comparing facial-landmark configurations and selecting the most robust for downstream analysis). I validate carefully, using leave-one-subject-out cross-validation and permutation testing.
 
-- **Agentic AI for real problems:** I designed and built **MarmoMind**, a human-in-the-loop AI agent for processing awake-marmoset fMRI: deterministic orchestration paired with a language-model judgment step, built on Anthropic's Agent SDK and run end-to-end on real data. It reflects how I worked during my PhD — real problem first, a human kept in the loop, and claims grounded only in what the system actually does.
+- **Agentic AI for real problems:** I designed and built **MarmoMind**, a human-in-the-loop AI agent for processing awake marmoset fMRI data: deterministic orchestration paired with a language model judgment step, built on Anthropic's Agent SDK and run end to end on real data. It reflects how I worked during my Ph.D (real problem first, a human kept in the loop, and claims grounded only in what the system actually does.)
 
-- **Full-stack experimental engineering:** I work across the whole pipeline — from Python/MATLAB acquisition code and MR hardware (an 8-channel RF receive coil, a PEEK head-post, and a computer-vision board for capturing and processing images) through preprocessing and analysis to the statistics. I also have over two years of medical-device R&D experience in signal processing and hardware calibration.
+- **Full-stack experimental engineering:** I work across the whole pipeline; from Python/MATLAB code and MR hardware (an 8-channel RF receive coil, a PEEK head-post, and a computer-vision board for capturing and processing images) through preprocessing and analysis to the statistics. I also have over two years of medical-device R&D experience in signal processing and hardware calibration.
 
-- **Reproducibility-first practice:** Versioned code, peer-reviewed acquisition and processing protocols, and validation against expert-annotated ground truth using quantitative metrics (Dice, Hausdorff distance).
+- **Reproducibility-first practice:** Versioned code, peer-reviewed acquisition and processing protocols, and validation against expert-annotated ground truth using quantitative metrics (Dice, Hausdorff distance). Check my [Google Scholar](https://scholar.google.ca/citations?user=KesIxo0AAAAJ
 
-- **Published researcher:** Several first-author publications on whole-brain functional networks in the awake marmoset (*Cell Reports*, *Journal of Neuroscience*, *Imaging Neuroscience*), spanning vocalization processing, neural decoding, and oromotor control.
+- **Published researcher:** Several first-author publications on whole brain functional networks in the awake marmoset (*Cell Reports*, *Journal of Neuroscience*, *Imaging Neuroscience*), spanning vocalization processing, neural decoding, and pose estimation using ML/AI approaches.
 
 ## Technical skills
 
@@ -39,7 +39,7 @@ I am now focused on **ML in healthcare and biomedical AI**, and actively buildin
 
 **Python ML & data stack** · NumPy · pandas · scikit-learn · PyTorch · Matplotlib
 
-**Deep learning & ML** · Custom 3D-CNNs (end-to-end training) · transfer learning/fine-tuning (ResNet-50, DeepLabCut) · classical ML (SVM, K-means, fuzzy c-means) · optimization and segmentation (interactive graph-cut) · *currently deepening: transformers, LLMs, and agentic-AI frameworks*
+**Deep learning & ML** · Custom 3D-CNNs (end to end training) · transfer learning/fine-tuning (ResNet-50, DeepLabCut) · classical ML (SVM, K-means, fuzzy c-means) · optimization and segmentation (interactive graph cut) · *currently deepening: transformers, LLMs, and agentic-AI frameworks*
 
 **Computer vision & medical imaging** · image segmentation · landmark/pose tracking · machine-vision defect detection · structural, functional & quantitative MRI
 
@@ -55,8 +55,8 @@ Three first-author papers in **Cell Reports**, **Journal of Neuroscience**, and 
 
 ## Selected research highlights
 
-- Built the **first decoding analysis of non-human-primate fMRI**, training a custom 3D-CNN to ~65% mean classification accuracy versus a 25% chance baseline, validated with leave-one-subject-out cross-validation and permutation-based significance testing.
-- Fine-tuned a **ResNet-50 (DeepLabCut)** for facial-landmark and lip-movement tracking across 90 in-scanner video recordings, reaching >85.7% agreement with manual annotation, then engineered the trajectories into time-locked behavioral regressors.
+- Built the **first decoding analysis of nonhuman primate fMRI**, training a custom 3D-CNN to ~65% mean classification accuracy versus a 25% chance baseline, validated with leave-one-subject-out cross-validation and permutation-based significance testing.
+- Fine-tuned a **ResNet-50 (DeepLabCut)** for facial landmark and lip movement tracking across 90 in-scanner video recordings, reaching >85.7% agreement with manual annotation, then engineered the trajectories into time-locked behavioral regressors.
 - Developed an **interactive graph-cut segmentation** method matching radiologist ground truth (Dice 89.12%, Hausdorff 1.01 mm) where atlas-based methods could not reach to this accuracy.
 - In medical-device R&D, used **waveform/signal feature analysis** to diagnose instability and cut shockwave pulse-energy variability from ±12–15% down to ±5–7%.
 
