@@ -23,17 +23,15 @@ I am now focused on **ML in healthcare and biomedical AI**, and actively buildin
 
 ## What I bring
 
-I combine medical-data engineering, applied machine learning, and deep learning to build systems that solve real research problems — with a bias toward honest engineering and reproducible results.
+- **Hands-on deep learning:** I have designed custom 3D-CNN architectures and applied ResNet-50 transfer learning for neural decoding of awake-primate fMRI, and fine-tuned a pre-trained DeepLabCut model for markerless tracking — defining and comparing facial-landmark configurations and selecting the most robust for downstream analysis. I validate carefully, using leave-one-subject-out cross-validation and permutation testing.
 
--**Hands-on deep learning:** I have designed *custom 3D-CNN architectures* and applied *ResNet-50 transfer learning* for neural decoding of awake-primate fMRI, and *fine-tuned a pre-trained DeepLabCut model* for markerless tracking, defining and comparing facial landmark configurations and selecting the most robust for downstream analysis. I validate carefully, using leave-one-subject-out cross-validation and permutation testing.
+- **Agentic AI for real problems:** I designed and built **MarmoMind**, a human-in-the-loop AI agent for processing awake-marmoset fMRI: deterministic orchestration paired with a language-model judgment step, built on Anthropic's Agent SDK and run end-to-end on real data. It reflects how I worked during my PhD — real problem first, a human kept in the loop, and claims grounded only in what the system actually does.
 
--**Agentic AI for real problems:** I designed and built *MarmoMind*, a human-in-the-loop AI agent for processing awake-marmoset fMRI: deterministic orchestration paired with a language-model judgment step, built on Anthropic's Agent SDK and run end-to-end on real data. It reflects how I worked during my Ph.D., real problem first, a human kept in the loop, and claims grounded only in what the system actually does.
+- **Full-stack experimental engineering:** I work across the whole pipeline — from Python/MATLAB acquisition code and MR hardware (an 8-channel RF receive coil, a PEEK head-post, and a computer-vision board for capturing and processing images) through preprocessing and analysis to the statistics. I also have over two years of medical-device R&D experience in signal processing and hardware calibration.
 
--**Full-stack experimental engineering:** I work across the whole pipeline from Python/MATLAB acquisition code and MR hardware (an 8-channel RF receive coil, a PEEK head-post, computer vision board for cpaturing image and processing that) through preprocessing and analysis to the statistics. I also have over two years of medical-device R&D experience in signal processing and hardware calibration.
+- **Reproducibility-first practice:** Versioned code, peer-reviewed acquisition and processing protocols, and validation against expert-annotated ground truth using quantitative metrics (Dice, Hausdorff distance).
 
--**Reproducibility-first practice:** Versioned code, peer-reviewed acquisition and processing protocols, and validation against expert-annotated ground truth using quantitative metrics (Dice, Hausdorff distance).
-
--**Published researcher:** Several First-author work on whole-brain functional networks in awake marmoset (Cell Reports, Journal of Neuroscience, Imaging Neuroscience), spanning vocalization processing, neural decoding, and oromotor control.
+- **Published researcher:** Several first-author publications on whole-brain functional networks in the awake marmoset (*Cell Reports*, *Journal of Neuroscience*, *Imaging Neuroscience*), spanning vocalization processing, neural decoding, and oromotor control.
 
 ## Technical skills
 
