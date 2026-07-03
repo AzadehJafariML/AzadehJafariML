@@ -29,7 +29,7 @@ I am now focused on **ML in healthcare and biomedical AI**, and actively buildin
 
 - **Full-stack experimental engineering:** I work across the whole pipeline; from Python/MATLAB code and MR hardware (an 8-channel RF receive coil, a PEEK headpost, and a computer vision board for capturing and processing images) through preprocessing and analysis to the statistics. I also have over two years of medical device R&D experience in signal processing and hardware calibration.
 
-- **Reproducibility-first practice:** Versioned code, peer-reviewed acquisition and processing protocols, and validation against expert-annotated ground truth using quantitative metrics (Dice, Hausdorff distance). Check my [Google Scholar](https://scholar.google.ca/citations?user=KesIxo0AAAAJ
+- **Reproducibility-first practice:** Versioned code, peer-reviewed acquisition and processing protocols, and validation against expert-annotated ground truth using quantitative metrics (Dice, Hausdorff distance).
 
 - **Published researcher:** Several first-author publications on whole brain functional networks in the awake marmoset (*Cell Reports*, *Journal of Neuroscience*, *Imaging Neuroscience*), spanning vocalization processing, neural decoding, and pose estimation using ML/AI approaches.
 
@@ -45,13 +45,13 @@ I am now focused on **ML in healthcare and biomedical AI**, and actively buildin
 
 **Data & pipelines** · multimodal integration (MRI, audio, video, behavioral & physiological signals) · end to end preprocessing-to-inference pipelines · time-series & signal processing
 
-**Evaluation & statistics** · leave-one-subject-out cross-validation · permutation testing · GLM regression · mixed-effects ANOVA · multiple-comparison correction · segmentation metrics (Dice, Hausdorff, AVD)
+**Evaluation & statistics** · leave-one-subject-out cross validation · permutation testing · GLM regression · mixed-effects ANOVA · multiple-comparison correction · segmentation evaluation metrics (Dice, Hausdorff, AVD)
 
 **Tooling** · AFNI · FSL · ANTs · Connectome Workbench · DeepLabCut · 3D Slicer · MeVisLab · Git
 
 ## Publications
 
-Three first-author papers in **Cell Reports**, **Journal of Neuroscience**, and **Imaging Neuroscience** (under post-revision review), among six peer-reviewed journal articles, 98 citations. Full list on [Google Scholar](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en).
+Three first-author papers in **Cell Reports**, **Journal of Neuroscience**, and **Imaging Neuroscience** (under post-revision review), among six peer-reviewed journal articles, 99 citations. Full list on [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en)
 
 
 ## Let's connect
