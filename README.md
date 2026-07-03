@@ -16,18 +16,18 @@
 
 ---
 
-As an engineer, I **build**, not just analyze. Across a Ph.D. in computational neuroscience and 2+ years in medical-device R&D, I have architected custom deep learning models, written Python/Matlab control codes and built the hardware that acquires the data, and shipped reproducible, end-to-end pipelines for multimodal medical data, especifically biomedical images.
+As an engineer, I **build**, not just analyze. Across a Ph.D. in computational neuroscience and 2+ years in medical device R&D, I have architected custom deep learning models, written Python/Matlab control codes and built the hardware that acquires the data, and shipped reproducible, end to end pipelines for multimodal medical data, especifically biomedical images.
 My training runs **electronics engineering** (B.Sc.) → **biomedical engineering- medical information engineering** (M.Sc.) → **computational neuroscience** (Ph.D.), so I am equally at home with the model, the data pipeline, and the signal it came from.
 
 I am now focused on **ML in healthcare and biomedical AI**, and actively building toward **generative and agentic AI**.
 
 ## What I bring
 
-- **Hands-on deep learning:** I have designed custom 3D-CNN architectures and applied ResNet-50 transfer learning for neural decoding of awake primate fMRI, and fine-tuned a pre-trained DeepLabCut model for markerless tracking (defining and comparing facial-landmark configurations and selecting the most robust for downstream analysis). I validate carefully, using leave-one-subject-out cross-validation and permutation testing.
+- **Hands-on deep learning:** I have designed custom 3D-CNN architectures and applied ResNet-50 transfer learning for neural decoding of awake primate fMRI, and fine-tuned a pre-trained DeepLabCut model for markerless tracking (defining and comparing facial-landmark configurations and selecting the most robust for downstream analysis). I validate carefully, using leave-one-subject-out cross validation and permutation testing.
 
 - **Agentic AI for real problems:** I designed and built **MarmoMind**, a human-in-the-loop AI agent for processing awake marmoset fMRI data: deterministic orchestration paired with a language model judgment step, built on Anthropic's Agent SDK and run end to end on real data. It reflects how I worked during my Ph.D (real problem first, a human kept in the loop, and claims grounded only in what the system actually does.)
 
-- **Full-stack experimental engineering:** I work across the whole pipeline; from Python/MATLAB code and MR hardware (an 8-channel RF receive coil, a PEEK head-post, and a computer-vision board for capturing and processing images) through preprocessing and analysis to the statistics. I also have over two years of medical-device R&D experience in signal processing and hardware calibration.
+- **Full-stack experimental engineering:** I work across the whole pipeline; from Python/MATLAB code and MR hardware (an 8-channel RF receive coil, a PEEK headpost, and a computer vision board for capturing and processing images) through preprocessing and analysis to the statistics. I also have over two years of medical device R&D experience in signal processing and hardware calibration.
 
 - **Reproducibility-first practice:** Versioned code, peer-reviewed acquisition and processing protocols, and validation against expert-annotated ground truth using quantitative metrics (Dice, Hausdorff distance). Check my [Google Scholar](https://scholar.google.ca/citations?user=KesIxo0AAAAJ
 
@@ -39,11 +39,11 @@ I am now focused on **ML in healthcare and biomedical AI**, and actively buildin
 
 **Python ML & data stack** · NumPy · pandas · scikit-learn · PyTorch · Matplotlib
 
-**Deep learning & ML** · Custom 3D-CNNs (end to end training) · transfer learning/fine-tuning (ResNet-50, DeepLabCut) · classical ML (SVM, K-means, fuzzy c-means) · optimization and segmentation (interactive graph cut) · *currently deepening: transformers, LLMs, and agentic-AI frameworks*
+**Deep learning & ML** · Custom 3D-CNNs (end to end training) · transfer learning/fine-tuning (ResNet-50, DeepLabCut) · classical ML (SVM, K-means, KNN, PCA, fuzzy c-means) · optimization and segmentation (interactive graph cut) · *currently deepening: transformers, LLMs, and agentic AI frameworks*
 
-**Computer vision & medical imaging** · image segmentation · landmark/pose tracking · machine-vision defect detection · structural, functional & quantitative MRI
+**Computer vision & medical imaging** · image segmentation · landmark/pose tracking · machine vision defect detection · structural, functional & quantitative MRI
 
-**Data & pipelines** · multimodal integration (MRI, audio, video, behavioral & physiological signals) · end-to-end preprocessing-to-inference pipelines · time-series & signal processing
+**Data & pipelines** · multimodal integration (MRI, audio, video, behavioral & physiological signals) · end to end preprocessing-to-inference pipelines · time-series & signal processing
 
 **Evaluation & statistics** · leave-one-subject-out cross-validation · permutation testing · GLM regression · mixed-effects ANOVA · multiple-comparison correction · segmentation metrics (Dice, Hausdorff, AVD)
 
