@@ -16,14 +16,14 @@
 
 ---
 
-As an engineer, I **build**, not just analyze. Across a Ph.D. in computational neuroscience and 2+ years in medical device R&D, I have architected custom deep learning models, written Python/Matlab control codes and built the hardware that acquires the data, and shipped reproducible, end to end pipelines for multimodal medical data, especifically biomedical images.
-My training runs **electronics engineering** (B.Sc.) → **biomedical engineering- medical information engineering** (M.Sc.) → **computational neuroscience** (Ph.D.), so I am equally at home with the model, the data pipeline, and the signal it came from.
+As an engineer, I **build**, not just analyze. Across a Ph.D. in computational neuroscience and ~3 years in medical device R&D, I have architected custom ML and deep learning models, written Python/Matlab control codes and built the hardware that acquires the data, and shipped reproducible, end to end pipelines for multimodal medical data analysis, especifically medical images (MRI) .
+My training runs **electrical & electronics engineering** (B.Sc.) → **biomedical engineering- medical data engineering** (M.Sc.) → **computational neuroscience** (Ph.D.), so I am equally at home with the model, the data pipeline, and the signal it came from.
 
-I am now focused on **ML in healthcare and biomedical AI**, and actively building toward **generative and agentic AI**.
+I am now focused on **AI/ML frameworks in healthcare**, and actively building toward **agentic AI systems** in this domain which can elevate healthcare production and patient experience.
 
 ## What I bring
 
-- **Hands-on deep learning:** I have designed custom 3D-CNN architectures and applied ResNet-50 transfer learning for neural decoding of awake primate fMRI, and fine-tuned a pre-trained DeepLabCut model for markerless tracking (defining and comparing facial-landmark configurations and selecting the most robust for downstream analysis). I validate carefully, using leave-one-subject-out cross validation and permutation testing.
+- **Hands-on deep learning:** I have substantial experience in developing ML framewroks. I have designed custom 3D-CNN architectures for neural decoding using fMRI data, and fine-tuned a pre-trained AI backbone (ResNet50) for markerless pose estimation (defining and comparing facial-landmark motion and selecting the most robust events for downstream analysis). I validated the designed systems carefully, using leave-one-subject-out cross validation and permutation testing.
 
 - **Agentic AI for real problems:** I designed and built **MarmoMind**, a human-in-the-loop AI agent for processing awake marmoset fMRI data: deterministic orchestration paired with a language model judgment step, built on Anthropic's Agent SDK and run end to end on real data. It reflects how I worked during my Ph.D (real problem first, a human kept in the loop, and claims grounded only in what the system actually does.)
 
