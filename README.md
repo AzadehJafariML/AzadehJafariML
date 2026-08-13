@@ -1,4 +1,5 @@
-# Hi, I am Azadeh Jafari
+# Hi
+# Welcome!
 
 ### Computational neuroscientist **and** engineer
 
@@ -23,15 +24,15 @@ I am now focused on **AI/ML frameworks in healthcare**, and actively building to
 
 ## What I bring
 
-- **Hands-on deep learning:** I have substantial experience in developing ML framewroks. I have designed custom 3D-CNN architectures for neural decoding using fMRI data, and fine-tuned a pre-trained AI backbone (ResNet50) for markerless pose estimation (defining and comparing facial-landmark motion and selecting the most robust events for downstream analysis). I validated the designed systems carefully, using leave-one-subject-out cross validation and permutation testing.
+- **Hands-on deep learning:** I have substantial experience in developing ML framewroks. I have designed custom 3D-CNN architectures for neural decoding using fMRI data, and fine-tuned a pre-trained AI backbone (ResNet50) for markerless pose estimation (defining and comparing facial-landmark motion and selecting the most robust events for downstream analysis). I validated the designed systems carefully, such as using leave-one-subject-out cross validation and permutation testing for 3D-CNN evaluation.
 
-- **Agentic AI for real problems:** I designed and built **MarmoMind**, a human-in-the-loop AI agent for processing awake marmoset fMRI data: deterministic orchestration paired with a language model judgment step, built on Anthropic's Agent SDK and run end to end on real data. It reflects how I worked during my Ph.D (real problem first, a human kept in the loop, and claims grounded only in what the system actually does.)
+- **Agentic AI systems for real problems:** I designed and built **MarmoMind**, a human-in-the-loop AI agent for processing awake marmoset fMRI data: deterministic orchestration paired with a language model judgment step, built on Anthropic's Agent SDK and run end to end on real fMRI data. It reflects how I worked during my Ph.D. (real problem first, a human kept in the loop, and claims grounded only in what the system actually does.)
 
 - **Full-stack experimental engineering:** I work across the whole pipeline; from Python/MATLAB code and MR hardware (an 8-channel RF receive coil, a PEEK headpost, and a computer vision board for capturing and processing images) through preprocessing and analysis to the statistics. I also have over two years of medical device R&D experience in signal processing and hardware calibration.
 
 - **Reproducibility-first practice:** Versioned code, peer-reviewed acquisition and processing protocols, and validation against expert-annotated ground truth using quantitative metrics (Dice, Hausdorff distance).
 
-- **Published researcher:** Several first-author publications on whole brain functional networks in the awake marmoset (*Cell Reports*, *Journal of Neuroscience*, *Imaging Neuroscience*), spanning vocalization processing, neural decoding, and pose estimation using ML/AI approaches.
+- **Published research studies:** Several first-author publications on developing AI/ML solutions for biomedical data analysis (*Cell Reports*, *Journal of Neuroscience*, *Imaging Neuroscience*), spanning multimodal data (images/auditory/videdo/signals) processing, neural decoding, and pose estimation.
 
 ## Technical skills
 
