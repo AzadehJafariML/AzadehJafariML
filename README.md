@@ -36,23 +36,24 @@ I am now focused on **AI/ML frameworks in healthcare**, and actively building to
 
 ## Technical skills
 
-**Languages** · Python · MATLAB · Bash · LabVIEW
+**Languages**: Python · MATLAB · Bash · LabVIEW
 
-**Python ML & data stack** · NumPy · pandas · scikit-learn · PyTorch · Matplotlib
+**Python ML & data stack**: NumPy · pandas · scikit-learn · PyTorch · Matplotlib
 
-**Deep learning & ML** · Custom 3D-CNNs (end to end training) · transfer learning/fine-tuning (ResNet-50, DeepLabCut) · classical ML (SVM, K-means, KNN, PCA, fuzzy c-means) · optimization and segmentation (interactive graph cut) · *currently deepening: transformers, LLMs, and agentic AI frameworks*
+**Deep learning & ML**: Custom 3D-CNNs (end to end training) · transfer learning/fine-tuning (ResNet-50, DeepLabCut) · classical ML (SVM, K-means, KNN, PCA, fuzzy c-means) · optimization and segmentation (interactive graph cut) · *currently deepening: transformers, LLMs, and agentic AI frameworks*
 
-**Computer vision & medical imaging** · image segmentation · landmark/pose tracking · machine vision defect detection · structural, functional & quantitative MRI
+**LMs & AI Agents**: Agentic AI architectures (LangChain, LangGraph, Claude Agent SDK); LLM-as-judge; tool-use & tool-calling orchestration; human-in-the-loop workflow design (checkpoint gates); auditable, governed agentic AI systems
+
+**Computer vision & medical imaging** · image segmentation · landmark/pose tracking · machine vision defect detection · Anatomical/functional/quantitative MRI; DICOM/NIfTI workflows; medical imaging tools (AFNI, FSL, ANTs, 3D Slicer, MeVisLab, Connectome Workbench)
 
 **Data & pipelines** · multimodal integration (MRI, audio, video, behavioral & physiological signals) · end to end preprocessing-to-inference pipelines · time-series & signal processing
 
 **Evaluation & statistics** · leave-one-subject-out cross validation · permutation testing · GLM regression · mixed-effects ANOVA · multiple-comparison correction · segmentation evaluation metrics (Dice, Hausdorff, AVD)
 
-**Tooling** · AFNI · FSL · ANTs · Connectome Workbench · DeepLabCut · 3D Slicer · MeVisLab · Git
 
 ## Publications
 
-Three first-author papers in **Cell Reports**, **Journal of Neuroscience**, and **Imaging Neuroscience** (under post-revision review), among six peer-reviewed journal articles, 99 citations. Full list on [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en)
+Three first-author papers in **Cell Reports**, **Journal of Neuroscience**, and **Imaging Neuroscience** (under post-revision review), among six peer-reviewed journal articles, 105 citations. Full list on [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en)
 
 
 ## Let's connect
