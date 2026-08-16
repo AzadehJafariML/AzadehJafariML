@@ -1,5 +1,4 @@
-# Hi, This is Azadeh!
-# Welcome!
+# Hi, this is Azadeh!
 
 ### I am a computational neuroscientist **and** a biomedical engineer
 
@@ -17,7 +16,7 @@
 
 ---
 
-As an engineer, I specifically **build** systems, not just analyze. During my research and industry experience, I have worked across nearly every layer of the biomedical AI system lifecycle. My work has started with hardware design for data collection and the development of acquisition protocols, then progressed to building pipelines for multimodal biomedical data analysis, including fit-for-purpose ML and deep learning model training and fine-tuning, rigorous validation, and more recently, the design of agentic AI systems to automate and coordinate these workflows autonomously. Throughout my experience, the reliability and reproducibility of the overall workflow have mattered as much as the performance of the model itself
+As an engineer, I specifically **build** systems, not just analyze. During my research and industry experience, I have worked across nearly every layer of the biomedical AI system lifecycle as a **Full-stack experimental engineer**. My work has started with hardware design for data collection and the development of acquisition protocols, then progressed to building pipelines for multimodal biomedical data analysis, including fit-for-purpose ML and deep learning model training and fine-tuning, rigorous validation, and more recently, the design of agentic AI systems to automate and coordinate these workflows autonomously. Throughout my experience, the reliability and reproducibility of the overall workflow have mattered as much as the performance of the model itself
 
 My training runs **electrical & electronics engineering** (B.Sc.) → **biomedical engineering- medical data engineering** (M.Sc.) → **computational neuroscience** (Ph.D.), so I am equally at home with the technical knowledge, the data pipeline, and the science behind biomedical data.
 
@@ -25,11 +24,9 @@ I am now focused on **AI/ML frameworks in healthcare applications**, and activel
 
 ## What I bring
 
-- **Hands-on deep learning:** I have substantial experience in developing ML framewroks. I have designed custom 3D-CNN architectures for neural decoding using fMRI data, and fine-tuned a pre-trained AI backbone (ResNet50) for markerless pose estimation (defining and comparing facial-landmark motion and selecting the most robust events for downstream analysis). I validated the designed systems carefully, such as using leave-one-subject-out cross validation and permutation testing for 3D-CNN evaluation.
+- **Hands-on deep learning:** I have substantial experience in developing ML framewroks. I have designed, trained, and evaluated custom 3D-CNN model for neural decoding in fMRI data, and fine-tuned a pre-trained AI backbone (ResNet50) for markerless pose estimation (defining and comparing facial-landmark motion and selecting the most robust events for downstream analysis). I validated the designed systems carefully using rigorous validation methods and published the outcomes in high-impact scientific journals.
 
-- **Agentic AI systems for real problems:** I designed and built **MarmoMind**, a human-in-the-loop AI agent for processing awake marmoset fMRI data: deterministic orchestration paired with a language model judgment step, built on Anthropic's Agent SDK and run end to end on real fMRI data. It reflects how I worked during my Ph.D. (real problem first, a human kept in the loop, and claims grounded only in what the system actually does.)
-
-- **Full-stack experimental engineering:** I work across the whole pipeline; from Python/MATLAB code and MR hardware (an 8-channel RF receive coil, a PEEK headpost, and a computer vision board for capturing and processing images) through preprocessing and analysis to the statistics. I also have over two years of medical device R&D experience in signal processing and hardware calibration.
+- **Agentic AI systems for real problems:** I designed and built **MarmoMind**, a human-in-the-loop agent AI system for processing fMRI data. In the feasibility study phase, deterministic orchestration was paired with language model judgment steps, built on Anthropic's Agent SDK and run end to end on real fMRI data. I am now developing this system on LangGraph architecture with the support of RAG (Marmossist) to automate the whole workflow for data handling, quality control, and data anlysis.
 
 - **Reproducibility-first practice:** Versioned code, peer-reviewed acquisition and processing protocols, and validation against expert-annotated ground truth using quantitative metrics (Dice, Hausdorff distance).
 
