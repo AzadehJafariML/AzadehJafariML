@@ -1,9 +1,9 @@
-# Hi
+# Hi, This is Azadeh!
 # Welcome!
 
-### Computational neuroscientist **and** engineer
+### I am a computational neuroscientist **and** a biomedical engineer
 
-### I build deep learning systems for medical and biological data, from the model math up to the hardware that produces it.
+### I build AI systems for analyzing biomedical data, from the model math up to the hardware that produces it.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -17,10 +17,11 @@
 
 ---
 
-As an engineer, I **build**, not just analyze. Across a Ph.D. in computational neuroscience and ~3 years in medical device R&D, I have architected custom ML and deep learning models, written Python/Matlab control codes and built the hardware that acquires the data, and shipped reproducible, end to end pipelines for multimodal medical data analysis, especifically medical images (MRI) .
-My training runs **electrical & electronics engineering** (B.Sc.) → **biomedical engineering- medical data engineering** (M.Sc.) → **computational neuroscience** (Ph.D.), so I am equally at home with the model, the data pipeline, and the signal it came from.
+As an engineer, I specifically **build** systems, not just analyze. During my research and industry experience, I have worked across nearly every layer of the biomedical AI system lifecycle. My work has started with hardware design for data collection and the development of acquisition protocols, then progressed to building pipelines for multimodal biomedical data analysis, including fit-for-purpose ML and deep learning model training and fine-tuning, rigorous validation, and more recently, the design of agentic AI systems to automate and coordinate these workflows autonomously. Throughout my experience, the reliability and reproducibility of the overall workflow have mattered as much as the performance of the model itself
 
-I am now focused on **AI/ML frameworks in healthcare**, and actively building toward **agentic AI systems** in this domain which can elevate healthcare production and patient experience.
+My training runs **electrical & electronics engineering** (B.Sc.) → **biomedical engineering- medical data engineering** (M.Sc.) → **computational neuroscience** (Ph.D.), so I am equally at home with the technical knowledge, the data pipeline, and the science behind biomedical data.
+
+I am now focused on **AI/ML frameworks in healthcare applications**, and actively building toward **agentic AI systems** in this domain which can elevate healthcare production and patient experience.
 
 ## What I bring
 
