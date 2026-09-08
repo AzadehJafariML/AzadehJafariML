@@ -16,7 +16,7 @@
 
 ---
 
-As an engineer, I specifically **build** systems, not just analyze. During my research and industry experience, I have worked across nearly every layer of the biomedical AI system lifecycle as a **Full-stack experimental engineer**. My work has started with hardware design for data collection and the development of acquisition protocols, then progressed to building pipelines for multimodal biomedical data analysis, including fit-for-purpose ML and deep learning model training and fine-tuning, rigorous validation, and more recently, the design of agentic AI systems to automate and coordinate these workflows autonomously. Throughout my experience, the reliability and reproducibility of the overall workflow have mattered as much as the performance of the model itself
+As an engineer, I specifically **build** systems, not just analyze data. During my research and industry experience, I have worked across nearly every layer of the  AI systems as a **Full-stack experimental engineer**. My work has started with hardware design for data collection and the development of acquisition protocols, then progressed to building pipelines for multimodal biomedical data analysis, including fit-for-purpose ML  model training and fine-tuning, rigorous validation, and more recently, the design of agentic AI systems to automate and coordinate these workflows autonomously.
 
 My training runs **electrical & electronics engineering** (B.Sc.) → **biomedical engineering- medical data engineering** (M.Sc.) → **computational neuroscience** (Ph.D.), so I am equally at home with the technical knowledge, the data pipeline, and the science behind biomedical data.
 
