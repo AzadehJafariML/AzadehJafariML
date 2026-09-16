@@ -1,8 +1,7 @@
 # Hi, this is Azadeh!
 
 ### I am a computational neuroscientist **and** a biomedical engineer
-
-### I build AI systems for analyzing biomedical data, from the model math up to the hardware that produces it.
+### I develop systems and workflows for analyzing multimodal biomedical data, from the hardware that produces them to the AI/ML pipelines and evaluation frameworks.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
