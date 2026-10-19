@@ -1,7 +1,7 @@
 # Hi, this is Azadeh!
 
-### I am a computational neuroscientist **and** a biomedical engineer
-### I develop systems and workflows for analyzing multimodal biomedical data, from the hardware that produces them to the AI/ML pipelines and evaluation frameworks.
+### I am a computational scientist **and** a machine learning engineer
+### I develop systems and workflows for analyzing multimodal data, from the hardware that produces them to the AI/ML pipelines and evaluation frameworks.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -15,48 +15,18 @@
 
 ---
 
-As an engineer, I specifically **build** systems, not just analyze data. During my research and industry experience, I have worked across nearly every layer of the  AI systems as a **Full-stack experimental engineer**. My work has started with hardware design for data collection and the development of acquisition protocols, then progressed to building pipelines for multimodal biomedical data analysis, including fit-for-purpose ML  model training and fine-tuning, rigorous validation, and more recently, the design of agentic AI systems to automate and coordinate these workflows autonomously.
-
-My training runs **electrical & electronics engineering** (B.Sc.) → **biomedical engineering- medical data engineering** (M.Sc.) → **computational neuroscience** (Ph.D.), so I am equally at home with the technical knowledge, the data pipeline, and the science behind biomedical data.
-
-I am now focused on **AI/ML frameworks in healthcare applications**, and actively building toward **agentic AI systems** in this domain which can elevate healthcare production and patient experience.
-
 ## What I bring
+As an engineer, I specifically **build** workflows, not just analyze data. With over 10 years of research and industry experiences, I have worked across nearly every layer of the  AI systems as a **Full-stack experimental engineer**. My work has started with hardware design for data collection and the development of data acquisition and quality control protocols, then progressed to building AI, ML, and deep learning models for multimodal data analysis and more recently, the design of agentic AI systems to automate and coordinate these workflows where the use of AI is reliable.
 
-- **Hands-on deep learning:** I have substantial experience in developing ML framewroks. I have designed, trained, and evaluated custom 3D-CNN model for neural decoding in fMRI data, and fine-tuned a pre-trained AI backbone (ResNet50) for markerless pose estimation (defining and comparing facial-landmark motion and selecting the most robust events for downstream analysis). I validated the designed systems carefully using rigorous validation methods and published the outcomes in high-impact scientific journals.
-
-- **Agentic AI systems for real problems:** I designed and built **MarmoMind**, a human-in-the-loop agent AI system for processing fMRI data. In the feasibility study phase, deterministic orchestration was paired with language model judgment steps, built on Anthropic's Agent SDK and run end to end on real fMRI data. I am now developing this system on LangGraph architecture with the support of RAG (Marmossist) to automate the whole workflow for data handling, quality control, and data anlysis.
-
-- **Reproducibility-first practice:** Versioned code, peer-reviewed acquisition and processing protocols, and validation against expert-annotated ground truth using quantitative metrics (Dice, Hausdorff distance).
-
-- **Published research studies:** Several first-author publications on developing AI/ML solutions for biomedical data analysis (*Cell Reports*, *Journal of Neuroscience*, *Imaging Neuroscience*), spanning multimodal data (images/auditory/videdo/signals) processing, neural decoding, and pose estimation.
-
-## Technical skills
-
-**Languages**: Python · MATLAB · Bash · LabVIEW
-
-**Python ML & data stack**: NumPy · pandas · scikit-learn · PyTorch · Matplotlib
-
-**Deep learning & ML**: Custom 3D-CNNs (end to end training) · transfer learning/fine-tuning (ResNet-50, DeepLabCut) · classical ML (SVM, K-means, KNN, PCA, fuzzy c-means) · optimization and segmentation (interactive graph cut) · *currently deepening: transformers, LLMs, and agentic AI frameworks*
-
-**LMs & AI Agents**: Agentic AI architectures (LangChain, LangGraph, Claude Agent SDK); LLM-as-judge; tool-use & tool-calling orchestration; human-in-the-loop workflow design (checkpoint gates); auditable, governed agentic AI systems
-
-**Computer vision & medical imaging** · image segmentation · landmark/pose tracking · machine vision defect detection · Anatomical/functional/quantitative MRI; DICOM/NIfTI workflows; medical imaging tools (AFNI, FSL, ANTs, 3D Slicer, MeVisLab, Connectome Workbench)
-
-**Data & pipelines** · multimodal integration (MRI, audio, video, behavioral & physiological signals) · end to end preprocessing-to-inference pipelines · time-series & signal processing
-
-**Evaluation & statistics** · leave-one-subject-out cross validation · permutation testing · GLM regression · mixed-effects ANOVA · multiple-comparison correction · segmentation evaluation metrics (Dice, Hausdorff, AVD)
+I have hands-on experience in signal processing, image processing and segmentation, image classification, audio detection and classification, and video processing.
+My technical skills include developing computer vision algorithms, 2D and 3D convolutional neural networks (CNNs), vision transformers (ViT), pose estimation and motion tracking, evaluation frameworks, benchmarking against expert-annotated ground-truth, and computational modeling.
 
 
 ## Publications
-
-Three first-author papers in **Cell Reports**, **Journal of Neuroscience**, and **Imaging Neuroscience** (under post-revision review), among six peer-reviewed journal articles, 105 citations. Full list on [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en)
+Three first-author papers in **Cell Reports**, **Journal of Neuroscience**, and **Imaging Neuroscience**, among six peer-reviewed journal articles, 111 citations. Full list on [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en)
 
 
 ## Let's connect
-
-Open to roles in **healthcare/biomedical AI** and **ML engineering in healthcare**, based in Toronto.
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jfr.azadeh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azadeh-jafari-neuroscience)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=KesIxo0AAAAJ&hl=en)
