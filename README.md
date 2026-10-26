@@ -17,10 +17,11 @@
 ---
 
 ## What I bring
-As an engineer, I specifically **build** workflows, not just analyze data. With over 10 years of research and industry experiences, I have worked across nearly every layer of the  AI systems as a **Full-stack experimental engineer**. My work has started with hardware design for data collection and the development of data acquisition and quality control protocols, then progressed to building AI, ML, and deep learning models for multimodal data analysis and more recently, the design of agentic AI systems to automate and coordinate these workflows where the use of AI is reliable.
+As an engineer, I specifically **build** end-to-end workflows for analyzing data. With over 10 years of research and industry experiences, I have worked across nearly every layer of the  AI systems as a **Full-stack experimental engineer**. My work has started with hardware design for data collection and the development of data acquisition and quality control protocols, then progressed to building AI, ML, deep learning, and attention-based models for multimodal data analysis and more recently, the design of agentic AI systems to automate and coordinate these workflows where the use of AI is reliable.
 
 I have hands-on experience in signal processing, image processing and segmentation, image classification, audio detection and classification, and video processing.
-My technical skills include developing computer vision algorithms, training 2D and 3D convolutional neural networks (CNNs) from scratch, prototyping vision transformers (ViT) from scratch, pose estimation and motion tracking by fine-tuning/transfer learning of the pre-trained AI backbones, developing evaluation frameworks and benchmarking workflows against expert-annotated ground-truth, and computational modeling.
+
+My technical skills include developing computer vision algorithms, designing and training 2D and 3D convolutional neural networks (CNNs) from scratch, designing and prototyping vision transformers (ViT) from scratch, pose estimation and motion tracking by fine-tuning/transfer learning of the pre-trained AI backbones (ResNet50), developing evaluation frameworks and benchmarking workflows against expert-annotated ground-truth, and computational modeling.
 
 
 ## Publications
